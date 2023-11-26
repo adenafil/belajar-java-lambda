@@ -2,7 +2,6 @@ package programmer.zaman.now.lambda.app;
 
 import programmer.zaman.now.lambda.util.StringUtil;
 
-import java.util.Locale;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
@@ -56,3 +55,4 @@ public class MethodReferenceApp {
     };
 
 }
+
